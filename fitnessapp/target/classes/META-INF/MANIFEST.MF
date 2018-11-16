@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: fitnessapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: szelesnikolett
+Implementation-Vendor-Id: hu.bme
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/fitnessapp
+Created-By: Maven Integration for Eclipse
+
